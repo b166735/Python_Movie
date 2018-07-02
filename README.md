@@ -33,4 +33,5 @@ python_2.py:
  3,'q'キーを入力して終了
  
 
- ![Output sample]() 
+キャプチャ
+https://youtu.be/2rtLYOD-OUc
